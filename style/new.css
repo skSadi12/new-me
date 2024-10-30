@@ -1,0 +1,264 @@
+.header{
+    background-image: url(/resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    /* padding: 300px; */
+    padding-top: 150px;
+    padding-bottom: 300px;
+    margin-top: 30px;
+    margin-left: 100px;
+    color: rgb(32, 191, 226);
+
+}
+header > h1 {
+    font-size: 70px;
+}
+header > h3 {
+    font-size: 30px;
+}
+
+.off{
+    text-align: center;
+}
+.offimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.off > h1 {
+    font-size: 80px;
+    color: red;
+}
+.off > h5 {
+    font-size: 24px;
+    color: red;
+}
+.off > h4 {
+    font-size: 48px;
+}
+
+
+.welcome{
+    background-image: url(/resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    /* padding: 40px; */
+    padding-bottom: 50px;
+    margin-top: 100px;
+
+}
+.welcometo{
+    display: flex;
+    padding: 60px;
+    gap: 50px;
+}
+.welcomediv{
+    margin-right: 150px;
+    color: white;
+}
+.welcomeimg{
+    padding-right: 130px;
+
+}
+.welcomediv > h2 {    
+    font-size: 64px;
+}
+.welcomediv > h3 {
+    font-size: 18px;    
+
+}
+.welcomediv > button {    
+    color: rgb(255, 255, 255);
+    background-color: black;
+    margin-top: 40px;
+    height: 40px;
+    width: 100px;
+
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.date{
+    background-color: rgb(230, 203, 221);
+    text-align: center;
+    margin: 100px;
+    padding: 80px 30px 80px 30px;
+    font-size: 32px;
+}
+.red {
+    color: red
+}
+.date > button {
+    color: white;
+    background-color: red;
+    height: 40px;
+    width: 80px;
+}
+.all{
+    display: flex;
+    margin: 100px;
+}
+.div1{
+    margin-right: 80px;
+}
+.div1 > h2 {
+    font-size:24px ;
+    color: red;
+    
+}
+.div1 > h3 {
+    font-size: 48px;
+
+}
+.div1 > h4 {
+    font-size: 20px;
+
+}
+.div2{
+    margin-right: 120px;
+
+}
+.div3{
+    /* margin-right: 20px; */
+}
+.div3 > h2 {
+    font-size:48px ;
+    color: red;
+}
+.div3 > h3 {
+    font-size: 20px;
+}
+
+
+
+
+.Holidays{
+    text-align: center;
+    margin: 100px;
+}
+
+.Holidays > h2 {
+    font-size:24px ;
+}
+.Holidays > h3 {
+    font-size:72px ;
+    
+}
+.Holidays > h3 >span {
+    color: red;
+}
+.Holidays > h4 {
+    font-size:20px ;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+.Holidaysdiv{
+    display: flex;
+    /* margin: 50px; */
+    margin-left: 100px;
+    margin-right: 177px;
+}
+.Groupimg1{
+    background-image: url(/resources/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    /* height: 900px; */
+    width: 600px;
+    /* position: top; */
+}
+
+.Holidaysdiv{
+    background-image: url(/resources/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-size: 110% ;
+    background-position: bottom;
+}
+.BEST > h2 {
+    font-size: 24px;
+    color: red;
+}
+.BEST > h3 {
+    font-size:48px ;
+    
+}
+.BEST > h4 {
+    font-size: 20px ;
+}
+.BEST{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 35%;
+}
+.BEST1{
+    display: flex;
+    margin-left: 100px;
+}
+.BEST2{
+    display: flex;
+    margin-left: 100px;
+}
+.mail{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+.mailtext{
+    text-align: center;
+}
+.mailtext > h2{
+    font-size: 48px;
+}
+.mailtext > h3{
+    font-size: 20px;
+}
+.Subscribe{
+    background-color: rgb(214, 183, 188);
+    padding: 50px;
+    margin: 100px;
+    border-radius: 30px;
+}
+.email{
+    display: flex;
+    justify-content: center; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.eclass{
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    height: 35px;
+    width: 25%;
+}
+.ebutton{
+    background-color: red;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.adding{
+    display: flex;
+    gap: 57%;
+
+}
+.alladd{
+    padding: 60px;
+    background-color: black;
+    color: white;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.end{
+    display: flex;
+    gap: 71%;
+}
+.alladd > h2 {
+    font-size: 24px;
+}
